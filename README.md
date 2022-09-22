@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 
-[![Seongyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongyoon-Jung?theme=rose_pine)](https://github.com/Seongyoon-Jung/github-readme-stats)
+[![Seongyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongyoon-Jung&show_icons=true&theme=theme=rose_pine)
+)](https://github.com/Seongyoon-Jung/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongyoon-Jung)](https://github.com/Seongyoon-Jung/github-readme-stats)

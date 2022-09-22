@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-[![Seongyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=blurblauer)](https://github.com/blurblauer/github-readme-stats)
+[![Seongyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongyoon-Jung)](https://github.com/Seongyoon-Jung/github-readme-stats)

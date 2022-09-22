@@ -15,11 +15,11 @@
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongyoon-Jung&hide_border=true&bg_color=000000&icon_color=E3E3E3A8&text_color=fff&title_color=7db0c7&layout=compact" width=49.2% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongyoon-Jung&hide_border=true&bg_color=0E1116&icon_color=E3E3E3A8&text_color=fff&title_color=7db0c7&layout=compact" width=49.2% />
 </a> 
  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Seongyoon-Jung&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=7db0c7" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Seongyoon-Jung&theme=react-dark&bg_color=0E1116&hide_border=true&line=7db0c7" width=98%/>
 </a>
 
 

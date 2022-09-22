@@ -24,10 +24,6 @@
 
 
 
-<br><br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongYoon-Jung&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%7db0c7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
-
 <!--
 **devpla/devpla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

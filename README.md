@@ -11,7 +11,7 @@
 <!-- SeongYoon-Jung's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seongyoon-Jung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=000000&icon_color=E3E3E3A8&text_color=fff&title_color=7db0c7" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seongyoon-Jung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0E1116&icon_color=E3E3E3A8&text_color=fff&title_color=7db0c7" width=49.2% />
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">

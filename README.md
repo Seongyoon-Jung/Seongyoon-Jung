@@ -15,7 +15,7 @@
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width=49.2% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongyoon-Jung&layout=compact" width=49.2% />
 </a> 
  
  

@@ -8,6 +8,7 @@
 <br><br><br>
  -->
 
+
 <!-- SeongYoon-Jung's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,6 +21,12 @@
  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=Seongyoon-Jung&theme=react-dark&bg_color=0E1116&hide_border=true&line=7db0c7" width=98%/>
+
+<a>
+<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+
 </a>
 
 
